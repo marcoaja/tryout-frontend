@@ -1,4 +1,4 @@
-# Tryout Frontend dengan Next.js
+# Tryout Frontend
 
 ## Persyaratan
 
